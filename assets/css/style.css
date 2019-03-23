@@ -176,6 +176,15 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+    .about {
+        width: 650px;
+    }
+    .contact {
+        width: 650px;
+    }
+    .portfolio {
+        width: 650px;
+    }
 
 }
 
@@ -226,7 +235,7 @@ footer {
     }
 
     .myPic {
-       height: 300x;
+       height: 320x;
        width: 300px;
        margin-left: 125px;
     }
