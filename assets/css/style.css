@@ -21,7 +21,6 @@ main {
 }
 
 p {
-    padding: 10px;
     line-height: 1.5rem;
 }
 a {
@@ -68,10 +67,11 @@ h3 {
 }
 
 .myPic {
-    height:200px;
-    width: 200px;
+    max-height: 200px;
     float: left;
-    padding-right: 20px;
+    padding: 10px;
+    margin: 0;
+    transform: rotate(90deg);
 }
 
 .about {
