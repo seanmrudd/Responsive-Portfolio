@@ -253,9 +253,7 @@ footer {
     }
 
     .myPic {
-       height: 320x;
-       width: 300px;
-       margin-left: 125px;
+        margin: 40px;
     }
 
     p {
